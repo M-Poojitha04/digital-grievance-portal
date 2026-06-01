@@ -130,7 +130,7 @@ The UI was first planned in Figma and then implemented using React.js.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/digital-grievance-portal.git
+git clone https://github.com/M-Poojitha04/digital-grievance-portal
 ```
 
 Navigate into the project:
