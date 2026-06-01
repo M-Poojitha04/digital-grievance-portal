@@ -12,6 +12,12 @@ This project was designed in **Figma** and implemented using **React.js** and **
 
 ---
 
+## Live Demo
+
+🔗 https://digital-grievance-portal.vercel.app/
+
+---
+
 ## ✨ Features
 
 ### 👤 User Features
